@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "971624956318",
+    "project_id": "pearls-28d35",
+    "storage_bucket": "pearls-28d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971624956318:android:10abfd4ba086e1b6f4568f",
+        "android_client_info": {
+          "package_name": "com.pearls.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971624956318-d5rbfp6jg380rf9v6nb6vhk2carlda1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pearls.org",
+            "certificate_hash": "92b0f3b993a9623f0824d59ac6c0dddb96131bda"
+          }
+        },
+        {
+          "client_id": "971624956318-teknbfa5kvnv53hupt2fo4kpq8vvtk63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24ozXZlYaM_0Gs6_Epk_CSb4yEaDHhq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971624956318-teknbfa5kvnv53hupt2fo4kpq8vvtk63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971624956318-hjof616hkd37m4uhbj3bb8cg5g6e0ssj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pearls.org"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
